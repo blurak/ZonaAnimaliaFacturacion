@@ -1,5 +1,5 @@
 INSERT INTO  regiones (nombre) VALUES ('CHINA');
-INSERT INTO  productos (nombre,precio,cantidad,create_at) VALUES ('Doncant 1kg',3000,10,NOW());
+INSERT INTO  productos (nombre,precio,cantidad,create_at) VALUES ('Doncantcho 1kg',3000,10,NOW());
 INSERT INTO  productos (nombre,precio,cantidad,create_at) VALUES ('Doncant 2kg',5000,10,NOW());
 INSERT INTO  productos (nombre,precio,cantidad,create_at) VALUES ('Doncant 10kg',6000,20,NOW());
 INSERT INTO  productos (nombre,precio,cantidad,create_at) VALUES ('Doncant 15kg',7000,30,NOW());
